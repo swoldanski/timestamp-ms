@@ -7,7 +7,7 @@ var app = express();
 
 app.get('*', function(req, res) {
 
-    var response = `
+var response = `
 <!doctype html>
 <html lang="en">
     <head>
