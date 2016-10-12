@@ -27,8 +27,8 @@ var response = `
                 <ul>3) If it does not contain a date or Unix timestamp, it returns null for those properties.</ul>
             </blockquote>
             <h3>Example usage:</h3>
-            <code>https://timestamp-ms.herokuapp.com/December%2015,%202015</code><br>
-            <code>https://timestamp-ms.herokuapp.com/1450137600</code>
+            <code>https://timestamp-ms-swoldanski.herokuapp.com/December%2015,%202015</code><br>
+            <code>https://timestamp-ms-swoldanski.herokuapp.com/1450137600</code>
             <h3>Example output:</h3>
             <code>
                 {
